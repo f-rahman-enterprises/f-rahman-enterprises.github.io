@@ -1,14 +1,45 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>F. Rahman Enterprises</title>
-  <style>
-    body { font-family: sans-serif; text-align: center; padding: 50px; }
-  </style>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>F Rahman Enterprises | Pneumatics, Valves & Industrial Supplies</title>
+  <meta name="description" content="Explore pneumatic components, valves, fittings and boiler accessories at F Rahman Enterprises, 58 Nawabpur Road, Dhaka. Enquire and order on WhatsApp.">
+  <meta name="theme-color" content="#122b36">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="assets/icons/icon-192.png"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="preload" href="assets/fonts/manrope.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
 </head>
 <body>
-  <h1>F. Rahman Enterprises</h1>
-  <p>Welcome to our official website.</p>
-</body>
-</html>
+<a class="skip" href="#catalogue">Skip to products</a>
+<div class="topbar"><div class="container"><span>Industrial supply. Personal service.</span><a href="tel:+8801715603598">Call +880 1715-603598 <span aria-hidden="true"><site-icon name="arrow"></site-icon></span></a></div></div>
+<header class="header"><div class="container nav">
+  <a href="#" class="brand" aria-label="F Rahman Enterprises home"><span class="brand-mark">F<span>R</span></span><span>F RAHMAN<small>ENTERPRISES</small></span></a>
+  <nav aria-label="Main navigation"><a class="active" href="#catalogue">Products</a><a href="#about">About us</a><a href="#contact">Contact</a></nav>
+  <button class="quote-trigger" id="open-quote">Enquiry list <span id="quote-count">0</span></button>
+</div></header>
+<main>
+<section class="hero"><div class="container hero-grid">
+  <div class="hero-copy"><p class="eyebrow"><span></span> YOUR INDUSTRIAL SUPPLY PARTNER IN DHAKA</p><h1>Small components.<br><em>Big possibilities.</em></h1><p class="hero-description">Pneumatics, valves, fittings and boiler accessories.<br>The right parts to keep your operations moving.</p><div class="hero-actions"><a class="button orange" href="#catalogue">Explore products <span><site-icon name="arrow"></site-icon></span></a><a class="hero-chat whatsapp" href="#">Talk to our team <span><site-icon name="arrow"></site-icon></span></a></div><div class="hero-foot"><span>IMPORTER</span><i></i><span>WHOLESALER</span><i></i><span>RETAILER</span></div></div>
+  <div class="hero-art"><div class="art-grid"></div><span class="technical-label">COMPONENTS THAT CONNECT YOUR INDUSTRY</span><img src="assets/products/shop-valve.webp" alt="Janatics pneumatic solenoid valve from F Rahman Enterprises product photos" width="640" height="480" fetchpriority="high" decoding="async"><div class="art-caption"><span class="cross"><site-icon name="box"></site-icon></span><div>PNEUMATICS & INDUSTRIAL HARDWARE<small>Precision in every connection.</small></div><span class="art-number">01 / 06</span></div></div>
+</div></section>
+<div class="supply-strip marquee" aria-label="Industrial supply: Janatics, Uflow, pneumatic components, boiler accessories and fittings"><div class="marquee-track"><div class="marquee-group"><span>Industrial supply</span><strong>JANATICS</strong><span>Pneumatic components</span><strong>UFLOW</strong><span>Boiler accessories</span><span>Industrial fittings</span></div><div class="marquee-group" aria-hidden="true"><span>Industrial supply</span><strong>JANATICS</strong><span>Pneumatic components</span><strong>UFLOW</strong><span>Boiler accessories</span><span>Industrial fittings</span></div></div><button id="marquee-pause" aria-label="Pause brand marquee" aria-pressed="false"><site-icon name="pause"></site-icon></button></div>
+<section class="catalogue container" id="catalogue">
+  <div class="section-heading"><div><p class="eyebrow">THE PRODUCT DIRECTORY</p><h2>Find your next component<span>.</span></h2></div><p>Know the model? Search it.<br>Need a hand? We’re a message away.</p></div>
+  <div class="search-row"><div class="search-box"><span aria-hidden="true"><site-icon name="search"></site-icon></span><input id="search" type="search" placeholder="Search by product, model or specification…" aria-label="Search products"><kbd>/</kbd></div><div class="sort-label"><span>Sort by</span> <fre-select id="sort" label="Sort products" value="featured"></fre-select></div></div>
+  <div class="catalogue-layout"><aside class="filters"><div class="filter-heading"><h3>Product categories</h3><span><site-icon name="arrow"></site-icon></span></div><button id="category-picker" class="category-picker" aria-haspopup="dialog"><site-icon name="grid"></site-icon><span id="category-picker-label">All categories</span><site-icon name="chevron"></site-icon></button><div id="categories"></div><div class="brand-filter"><span class="filter-label">Filter by brand</span><fre-select id="brand-filter" label="Filter by brand"></fre-select></div><div class="help-card"><span class="help-icon"><site-icon name="help"></site-icon></span><h3>Can’t find your part?</h3><p>Send us a model number or a photo. We’ll help you find a match.</p><a class="whatsapp" href="#">Ask on WhatsApp <site-icon name="arrow"></site-icon></a></div></aside>
+  <div class="results"><div class="results-heading"><p id="result-count" role="status">Loading products…</p><button class="text-button" id="reset">Reset filters <site-icon name="reset"></site-icon></button></div><p class="data-status" id="data-status" role="status"></p><div class="product-grid" id="products"></div><div id="empty" class="empty" hidden><h3>No matching components</h3><p>Try a shorter model number or clear your filters.</p><button class="button dark" id="empty-reset">Clear filters</button></div><div class="pagination"><button id="prev" aria-label="Previous page"><site-icon name="arrow"></site-icon> Previous</button><span id="page-info"></span><button id="next" aria-label="Next page">Next <site-icon name="arrow"></site-icon></button></div><p class="stock-note">Price and availability are confirmed by our team before an order is placed.</p></div></div>
+</section>
+<section class="service-band"><div class="container"><p class="eyebrow">FROM YOUR REQUIREMENT TO THE RIGHT PART</p><h2>Ordering, without the guesswork.</h2><div class="steps"><div><span>01</span><h3>Find your component</h3><p>Browse the catalogue or search by model and specification.</p></div><div><span>02</span><h3>Send an enquiry</h3><p>Add products to your list and share your requirements on WhatsApp.</p></div><div><span>03</span><h3>Confirm with our team</h3><p>We’ll confirm the specification, price, availability and delivery details.</p></div></div></div></section>
+<section class="about container" id="about"><div><p class="eyebrow">F RAHMAN ENTERPRISES</p><h2>Industrial essentials.<br>One familiar address.</h2></div><div><p>From air-line fittings to boiler accessories, we supply hardware and components for industrial requirements from our sales centre on Nawabpur Road, Dhaka.</p><p>As an importer, wholesaler, retailer and general order supplier, we help you source the parts your work depends on.</p><a href="https://www.facebook.com/frahmanenterprises" target="_blank" rel="noopener noreferrer" class="underlined">Visit our Facebook page <site-icon name="arrow"></site-icon></a></div></section>
+<section class="contact container" id="contact"><div><p class="eyebrow">LET’S GET YOU THE RIGHT PART</p><h2>Your next project<br>starts with a conversation.</h2><a class="button orange whatsapp" href="#">Enquire on WhatsApp <site-icon name="arrow"></site-icon></a></div><div class="contact-details"><div><span>VISIT OUR SALES CENTRE</span><p>58, Nawabpur Road, Hanif Boiler Market<br>Dhaka-1100, Bangladesh</p><a href="https://www.google.com/maps/search/?api=1&query=58+Nawabpur+Road+Hanif+Boiler+Market+Dhaka+1100" target="_blank" rel="noopener noreferrer"><site-icon name="pin"></site-icon>Get directions <site-icon name="arrow"></site-icon></a></div><div><span>CALL OR EMAIL</span><a href="tel:+8801715603598"><site-icon name="phone"></site-icon>+880 1715-603598</a><a href="mailto:frahmanenterprizes@gmail.com"><site-icon name="mail"></site-icon>frahmanenterprizes@gmail.com</a></div></div></section>
+</main>
+<footer class="container"><a href="#" class="footer-name">F RAHMAN ENTERPRISES</a><p>© <span id="year"></span> F Rahman Enterprises</p><a href="#catalogue">Back to products <site-icon name="arrow"></site-icon></a></footer>
+<a class="floating-wa whatsapp" href="#" aria-label="Chat with F Rahman Enterprises on WhatsApp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M21 11.5a9 9 0 0 1-13 8L3 21l1.5-5A9 9 0 1 1 21 11.5Z"/><path d="M8 7c-2 4 3 9 7 8l1-2-3-1-1 1-2-2 1-1-1-3Z"/></svg><span>Let’s talk</span></a>
+<dialog id="product-dialog" class="product-dialog" aria-label="Product details"><button class="close-dialog" aria-label="Close product details"><site-icon name="close"></site-icon></button><div id="product-details"></div></dialog>
+<dialog id="quote-dialog" class="quote-dialog" aria-label="Enquiry list"><button class="close-dialog" aria-label="Close enquiry list"><site-icon name="close"></site-icon></button><p class="eyebrow">YOUR REQUIREMENTS</p><h2>Enquiry list<span>.</span></h2><p class="dialog-intro">Confirm quantities and send your list to our team.</p><div id="quote-items"></div><a id="send-quote" class="button green" href="#" target="_blank" rel="noopener noreferrer">Send enquiry on WhatsApp <site-icon name="arrow"></site-icon></a><p class="stock-note">This sends an enquiry. Our team will confirm your order details.</p></dialog>
+<dialog id="category-dialog" class="category-sheet" aria-label="Product categories"><div class="sheet-handle"></div><button class="close-dialog" aria-label="Close categories"><site-icon name="close"></site-icon></button><p class="eyebrow">BROWSE THE RANGE</p><h2>Product categories</h2><div id="category-sheet-options"></div></dialog>
+<nav class="mobile-nav" aria-label="Mobile navigation"><a href="#" data-mobile="home"><site-icon name="home"></site-icon><span>Home</span></a><a href="#catalogue" data-mobile="products" class="active"><site-icon name="search"></site-icon><span>Products</span></a><button id="mobile-categories"><site-icon name="grid"></site-icon><span>Categories</span></button><button id="mobile-enquiry"><site-icon name="box"></site-icon><span>Enquiry <b id="mobile-quote-count">0</b></span></button><a href="#" class="whatsapp"><site-icon name="chat"></site-icon><span>Chat</span></a></nav>
+<button id="install-app" class="install-app" hidden><site-icon name="download"></site-icon>Install app</button>
+<div class="toast" id="toast" role="status"></div>
+<noscript><p class="container">Please enable JavaScript to browse the product catalogue. Call +880 1715-603598 for enquiries.</p></noscript>
+</body></html>

@@ -1,0 +1,1189 @@
+{
+  "sources": {
+    "ds2": {
+      "path": "assets/products/ds2.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/compact_valves/ds2.jpg",
+      "source_page": "https://www.janatics.com/dcv_compact_valves.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "ds2-double": {
+      "path": "assets/products/ds2-double.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/compact_valves/5_2_double.jpg",
+      "source_page": "https://www.janatics.com/dcv_compact_valves.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "ds2-block": {
+      "path": "assets/products/ds2-block.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/compact_valves/blocked_type.jpg",
+      "source_page": "https://www.janatics.com/dcv_compact_valves.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "e-valve": {
+      "path": "assets/products/e-valve.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/solenoid_valve.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "ef-valve": {
+      "path": "assets/products/ef-valve.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/solenoid_valve_ef.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "manual": {
+      "path": "assets/products/manual.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/manual_mechanical_valves.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "manifold": {
+      "path": "assets/products/manifold.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/manifold.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "rotary": {
+      "path": "assets/products/rotary.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/rotary_slide_valve.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "coil": {
+      "path": "assets/products/coil.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/solenoid_connectors.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "pulse": {
+      "path": "assets/products/pulse.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/valve/pulse_valve.jpg",
+      "source_page": "https://www.janatics.com/dcv_directional_control_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "union": {
+      "path": "assets/products/union.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/union.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "straight": {
+      "path": "assets/products/straight.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/straight_connector.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "elbow": {
+      "path": "assets/products/elbow.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/elbow_connector.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "tee": {
+      "path": "assets/products/tee.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/tee_connector.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "y": {
+      "path": "assets/products/y.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/y_shape_fitting.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "swivel": {
+      "path": "assets/products/swivel.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/swivel_fitting.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "gun": {
+      "path": "assets/products/gun.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/air_blow_gun.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "plug": {
+      "path": "assets/products/plug.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/plug.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "quick-coupler": {
+      "path": "assets/products/quick-coupler.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/quick_coupler.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "self-sealing": {
+      "path": "assets/products/self-sealing.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/one_touch_fittings/self_sealing_fittings.jpg",
+      "source_page": "https://www.janatics.com/otf_one_touch_fittings.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "filter": {
+      "path": "assets/products/filter.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_preparation_unit/filter.jpg",
+      "source_page": "https://www.janatics.com/apu_air_preparation_unit.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "regulator": {
+      "path": "assets/products/regulator.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_preparation_unit/regulator.jpg",
+      "source_page": "https://www.janatics.com/apu_air_preparation_unit.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "lubricator": {
+      "path": "assets/products/lubricator.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_preparation_unit/lubricator.jpg",
+      "source_page": "https://www.janatics.com/apu_air_preparation_unit.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "frl": {
+      "path": "assets/products/frl.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_preparation_unit/frlm.jpg",
+      "source_page": "https://www.janatics.com/apu_air_preparation_unit.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "shutoff": {
+      "path": "assets/products/shutoff.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_preparation_unit/shut_off_valve.jpg",
+      "source_page": "https://www.janatics.com/apu_air_preparation_unit.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "flow": {
+      "path": "assets/products/flow.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/flow_control_valve.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "exhaust": {
+      "path": "assets/products/exhaust.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/quick_exhaust_valve.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "nrv": {
+      "path": "assets/products/nrv.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/non_return_valve.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "pilot-nrv": {
+      "path": "assets/products/pilot-nrv.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/pilot_opt_nrv.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "slide": {
+      "path": "assets/products/slide.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/inline_slide_valve.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "logic": {
+      "path": "assets/products/logic.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/air_line_valve/and_valve.jpg",
+      "source_page": "https://www.janatics.com/av_airline_valve.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "tube": {
+      "path": "assets/products/tube.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/tubes/polyurethane_tubes.jpg",
+      "source_page": "https://www.janatics.com/tb_tubes.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "coiled-tube": {
+      "path": "assets/products/coiled-tube.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/tubes/polyurethane_coiled_tubes.jpg",
+      "source_page": "https://www.janatics.com/tb_tubes.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "cylinder": {
+      "path": "assets/products/cylinder.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/cylinders/tie_rod_cylinders.jpg",
+      "source_page": "https://www.janatics.com/cy_cylinders.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "round-cylinder": {
+      "path": "assets/products/round-cylinder.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/cylinders/miniature_cylinders.jpg",
+      "source_page": "https://www.janatics.com/cy_cylinders.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "compact-cylinder": {
+      "path": "assets/products/compact-cylinder.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/cylinders/compact_cylinders.jpg",
+      "source_page": "https://www.janatics.com/cy_cylinders.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "reed": {
+      "path": "assets/products/reed.jpg",
+      "url": "https://www.janatics.com/assets/images/products/fa/pneumatics/cylinders/sensor.jpg",
+      "source_page": "https://www.janatics.com/cy_cylinders.php",
+      "match": "Product family photo; size and configuration may vary"
+    },
+    "gauge-glass": {
+      "path": "assets/products/gauge-glass.jpg",
+      "url": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/483933842_1158302312750511_1438490798020728968_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s590x590&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HOfA6nluGYAQ7kNvwFMiyrk&_nc_oc=Adps5WBkBwpwo6HkpwKtNpkqllAWVc8O2gMemGZjUzE2cqRxXpPlEO2Z6_aeqiLanbE&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQR8Iu9JVNBbxCb5XhTzH1_qizYjGKCe6JHDyMhx7u8gQw&oe=6AEB5C7B",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "glass-tube": {
+      "path": "assets/products/glass-tube.jpg",
+      "url": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/483933842_1158302312750511_1438490798020728968_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s590x590&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HOfA6nluGYAQ7kNvwFMiyrk&_nc_oc=Adps5WBkBwpwo6HkpwKtNpkqllAWVc8O2gMemGZjUzE2cqRxXpPlEO2Z6_aeqiLanbE&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQR8Iu9JVNBbxCb5XhTzH1_qizYjGKCe6JHDyMhx7u8gQw&oe=6AEB5C7B",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "reflex-glass": {
+      "path": "assets/products/reflex-glass.jpg",
+      "url": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/483623178_1158302309417178_4598292402002978962_n.jpg?stp=dst-jpg_tt6&cstp=mx600x421&ctp=s590x590&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=peCUf6Ncx9YQ7kNvwGsg2aI&_nc_oc=AdriGjmRBQw3qgpfgYlAMGBpBaMUbD0Fp6c5GzEgku0sjHL7A4Jv5ZptZDjBzvTTVuc&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQSQPboB8Y9EulvUWq9hctL3_x5UYU2y0ofXoSd8hYXqaw&oe=6AEB72AB",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "shop-valve": {
+      "path": "assets/products/shop-valve.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/483385594_1158302022750540_4799552715071481871_n.jpg?stp=dst-jpg_tt6&cstp=mx481x481&ctp=s481x481&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XjZM0FzvHe8Q7kNvwG5Gq1a&_nc_oc=AdryLRCcRu9yMezFqxxaX8WId_CgatZX8Njcqfl6lFN-aHoj5y6Z75w6q4_2GTs-xR0&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQSYv56vfKN-vcP2oOiYAQSjf0t88eZgnvUutqyvIgd0ag&oe=6AEB6D6C",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "steam-trap": {
+      "path": "assets/products/steam-trap.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/482829851_1158302202750522_1427913970109948295_n.jpg?stp=dst-jpg_tt6&cstp=mx375x500&ctp=s375x500&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=epWd4O-1keMQ7kNvwGEQJne&_nc_oc=Adr8NR5UW0YEGoAlbdzXUI9c6gMFn46Rzvv2CvXOGaobL8MoUxH95B_MMO6C-7cLBqg&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=rF9otYkdVH1l_mgM3lxEEA&_nc_ss=7b289&oh=00_AQRQfueBwIJTGCijpqnsESXEAJKtnD4oZ2txrcHQE5OxUw&oe=6AEB6DDA",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "level-assembly": {
+      "path": "assets/products/level-assembly.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/484567463_1161442515769824_6760656023095357548_n.jpg?stp=dst-jpg_tt6&cstp=mx2169x425&ctp=s590x590&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2hZ-By5NCF4Q7kNvwHanQcP&_nc_oc=AdpAG-i6HWu4Ogv1cgsvtJJV0LImmkhAg9SNtEZ3_kIXA8pFcuIVGzbOwdFcYMy_CKs&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=rF9otYkdVH1l_mgM3lxEEA&_nc_ss=7b289&oh=00_AQTOlC02ynLtFYMGw2iZZCBrPbUgPr9NbyLKNYxIxKXYRA&oe=6AEB6012",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "nozzle": {
+      "path": "assets/products/nozzle.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/484871602_1161442555769820_5783571382188728543_n.jpg?stp=dst-jpg_tt6&cstp=mx545x1000&ctp=p320x320&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=do-9jWlCIMcQ7kNvwHqmxjN&_nc_oc=AdrWkv-LCXgsDPKidBF_GgKuE2e1b2XtCGW5emkPPD0QKup_yv4OSowUMoDz943ZEnw&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=rF9otYkdVH1l_mgM3lxEEA&_nc_ss=7b289&oh=00_AQS7Li2zLgrLjRnsXC4Ps18kB19Fcy_76vq6yzSQm08vrg&oe=6AEB584A",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "fusible-plug": {
+      "path": "assets/products/fusible-plug.jpg",
+      "url": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/588474180_1365891075324966_2225771564537376247_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=p526x296&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Bn6N1ysYqrYQ7kNvwG0De7S&_nc_oc=Adq_QBVexwe_edjNTM4AG3piEoNMgNbtBD2qLndYtZ0V2GjlyA4J7vKdwI4XqcT2kpc&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=iJg0Kx2uMGureQxNhkvpoQ&_nc_ss=7b289&oh=00_AQTL0yasoRtU3dwXOa72F2tT3qkpm8hPrFW3pkYrWlWQbg&oe=6AEB87C1",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "gauge": {
+      "path": "assets/products/gauge.jpg",
+      "url": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/589816919_1365853868662020_2984089011592678121_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=p526x296&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZHFbNysqh-IQ7kNvwGr3EtN&_nc_oc=AdoN5oP8iXiUrGPYA9eAu-GBQjc5o8oXAN1XMYaPgj0Ty5UXXkgUQ4LYuLUZvn-GyM4&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=iJg0Kx2uMGureQxNhkvpoQ&_nc_ss=7b289&oh=00_AQS89SvgEGXTQ3mWnhKoyxQ0RR1ffM5KUXHDyf8GuA8iXQ&oe=6AEB7453",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "ss-fittings": {
+      "path": "assets/products/ss-fittings.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/587630053_1365848735329200_4929817608615297927_n.jpg?stp=dst-jpg_tt6&cstp=mx600x400&ctp=s590x590&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=83VJSf79cPgQ7kNvwEDJWze&_nc_oc=Adr8EGNj-JBVVmuDJCDUy3iHGJEkyEnbF4UmuIJtK0PcwHSv55gc3wZfl5ATQW088ys&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=8WDLEv9zFdN2XqcCsKgRxQ&_nc_ss=7b289&oh=00_AQSwh_AFbp2EZqmqbzd33v6wIS8HUGnUO14Fx77q4urdtg&oe=6AEB8CB5",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "level-controller": {
+      "path": "assets/products/level-controller.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/483846861_1158302196083856_5891752193259634512_n.jpg?stp=dst-jpg_tt6&cstp=mx500x500&ctp=s500x500&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BPyFcfQ7hLgQ7kNvwGni4Nk&_nc_oc=AdotUZmAGlCKB3OWN72JYBTD0x4O_DTUcd8zHX9dE3icEoZ6TxEMvWFoguxDuijVVU0&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQSEt6Bi-uKlxA1ErF4TA_kZMtgO8FZGtmlpLnTlciJ5Ww&oe=6AEB8B25",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "air-break-switch": {
+      "path": "assets/products/air-break-switch.jpg",
+      "url": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/484040122_1158302109417198_5188117120599509205_n.jpg?stp=dst-jpg_tt6&cstp=mx500x353&ctp=s500x353&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-ifxQeLixJcQ7kNvwGfL41B&_nc_oc=Adq-iHXyFikUXH02nxNWhYQ_mjb5UzzYoU9pcX1moX5fLenWAb6p_nPhYkYTB3jGsVk&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=QsyZqfVPgYf0Oh3SSUYtJw&_nc_ss=7b289&oh=00_AQRU30Ps_pz8I350SNOIwEBr8HdVopv3XD0OF13QL4qhkA&oe=6AEB6AC1",
+      "source_page": "https://www.facebook.com/frahmanenterprises",
+      "match": "Business product-family photo; size and configuration may vary"
+    },
+    "uflow-mcn": {
+      "path": "assets/products/uflow-mcn.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/semi-lift-diaphragm/Main/uflow_semi_lift_diaphragm_operated_valve_nc_no_3.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/mcn-series/pr-series",
+      "match": "MCN series photo; size and configuration may vary"
+    },
+    "uflow-pbn": {
+      "path": "assets/products/uflow-pbn.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/pilot-operated-diaphragm-type-solenoid-valve-nc/thumb/uflow_pilot_operated_diaphragm_type_solenoid_valve_nc_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/pbn-series/pr-series",
+      "match": "PBN series photo; size and configuration may vary"
+    },
+    "uflow-pcn": {
+      "path": "assets/products/uflow-pcn.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/pilot_opetated_diaphragm_nc/thumb/uflow_pilot_operated_diaphragm_valve_nc_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/pcn-series/pr-series",
+      "match": "PCN series photo; size and configuration may vary"
+    },
+    "uflow-pbu": {
+      "path": "assets/products/uflow-pbu.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/high_pressure_pilot_operated_diaphragm_type_nc/thumb/uflow_high_pressure_pilot_operated_diaphragm_type_nc_pbn_series_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/pbu-series/pr-series",
+      "match": "PBU series photo; size and configuration may vary"
+    },
+    "uflow-dac": {
+      "path": "assets/products/uflow-dac.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/3-2-way-direct-acting-solenoid-valve-nc/thumb/uflow_3_2_way_direct_acting_solenoid_valve_nc_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/dac-series/pr-series",
+      "match": "DAC series photo; size and configuration may vary"
+    },
+    "uflow-hcp": {
+      "path": "assets/products/uflow-hcp.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/pilot-operated-piston-type-steam-solenoid-valve-nc-no/thumb/uflow_pilot_operated_piston_type_steam_valve_nc_no_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/hcp-series/pr-series",
+      "match": "HCP series photo; size and configuration may vary"
+    },
+    "uflow-dcc": {
+      "path": "assets/products/uflow-dcc.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/pneumatic-control-valve/3-2-Single-Solenoid-Valve-With-Spring-Return/thumb/sta1_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/pneumatic-valve/series/dcc-series/pr-series",
+      "match": "DCC series photo; size and configuration may vary"
+    },
+    "uflow-das": {
+      "path": "assets/products/uflow-das.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/2-2-way-direct-acting-solenoid-valve-nc-no/thumb/uflow_2_2_way_direct_acting_solenoid_valve_nc_no_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/solenoid-valve/series/das-series/pr-series",
+      "match": "DAS series photo; size and configuration may vary"
+    },
+    "uflow-dcs": {
+      "path": "assets/products/uflow-dcs.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/pneumatic-control-valve/series/dcs/3-2-single-solenoid-valve-with-spring-return-nc-no/thumb/uflow_3_2_single_solenoid_valve_with_spring_return_nc_no_dcs_series_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/pneumatic-valve/series/dcs-series/pr-series",
+      "match": "DCS series photo; size and configuration may vary"
+    },
+    "uflow-ycp": {
+      "path": "assets/products/uflow-ycp.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/angle-seat-valve/Angle-Seat-Valve-with-Steel-Operator/thumb/angle_seat_valve_with_steel_operator_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/angle-seat-valve/series/ycp-series/pr-series",
+      "match": "YCP series photo; size and configuration may vary"
+    },
+    "uflow-jan": {
+      "path": "assets/products/uflow-jan.webp",
+      "url": "https://www.uflowvalve.com/Assets/Product/Solenoid-Valve/pulse-jet-valve/thumb/ulfow_pulse_jet_angle_type_dust_collector_valve_thumb.webp",
+      "source_page": "https://www.uflowvalve.com/pulse_jet_valve/series/jan-series/pr-series",
+      "match": "JAN series photo; size and configuration may vary"
+    }
+  },
+  "matched_records": 564,
+  "unmatched_records": [
+    {
+      "id": "FRE-01-0023",
+      "model": "DS 355SR61 W",
+      "name": "Solenoid Valve 1/4\" x 5/2 Base Type Single Coil 24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0024",
+      "model": "DS355SS61W",
+      "name": "Solenoid Valve 1/4\" x 5/2 Base Type DOUBLE Coil 24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0029",
+      "model": "DS43601SC8W",
+      "name": "Solenoid Valve Double Coil Heavy Body Base Type",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0030",
+      "model": "DS555SR61 W",
+      "name": "Solenoid Valve 1/4' 5/2 heavy body single coil 24 v dc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0031",
+      "model": "DS555SR61 A",
+      "name": "Solenoid Valve 1/4' 5/2 heavy body single coil 220 v AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0032",
+      "model": "DP155SR61 W",
+      "name": "Solenoid Valve J series 1/4\" 5/2 single coil 24 v DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0033",
+      "model": "DP155SR61 A",
+      "name": "Solenoid Valve J series 1/4\" 5/2 single coil 220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0039",
+      "model": "E12614 W",
+      "name": "Solenoid Valve 2 WAY 1/4\", WITHOUT BYPASS 10 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0040",
+      "model": "E12612A",
+      "name": "Solenoid Valve 1/4\", 3/2, 2 WAY BYPASS ,10 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0041",
+      "model": "E14612A",
+      "name": "Solenoid Valve 1/4\", 3/2, 2 WAY BYPASS ,10 BAR 24vdc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0042",
+      "model": "E14612W",
+      "name": "Solenoid Valve 1/4\", 3/2, 2 WAY BYPASS ,10 BAR 24vdc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0043",
+      "model": "E12612A",
+      "name": "Solenoid Valve 1/4\", 2/2 NC 2 WAY WITHOUT BYPASS ,10 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0044",
+      "model": "C123",
+      "name": "Solenoid Valve 1/4\", 3/2, 2 WAY BYPASS ,20 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0045",
+      "model": "C321",
+      "name": "Solenoid Valve 1/4\", 3/2, 2 WAY BYPASS ,30 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0046",
+      "model": "C863",
+      "name": "Solenoid Valve 2 WAY 1/4\", WITHOUT BYPASS ( 0-7 BAR)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0047",
+      "model": "E24002WK",
+      "name": "Solenoid Valve 3/2 GANG MOUNTING FOR SOLENOID VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0048",
+      "model": "CS 70008 W",
+      "name": "Solenoid Valve 1/4\" 5/2 Heavy Body,pilot type, Double Coil 24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0049",
+      "model": "CS 70006 W",
+      "name": "Solenoid Valve 1/4\" 5/2 Heavy Body,pilot type,SINGLE Coil 24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0050",
+      "model": "C484",
+      "name": "Solenoid Valve 1/4\",5/2 SOLENOID HEAVY BODY J TYPE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0051",
+      "model": "C608",
+      "name": "Solenoid Valve 1/4\",3/2,20 BAR 220VAC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0052",
+      "model": "EF14615A",
+      "name": "Solenoid Valve 1/4\",3/2 NC,220 V AC (PILOT OPERATED)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0053",
+      "model": "DP145SR61 W",
+      "name": "Solenoid Valve 1/4\" ,3/2 NC SINGLE SOLENOID (sp retuen valve), 24 v dc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0054",
+      "model": "",
+      "name": "Solenoid Valve METAL BODY 1/2\" SOLENOID VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0085",
+      "model": "DS 244P60MP2A",
+      "name": "Accessories 1/8\",3/2 NC VALVE ASSY WITH RAW CLIP ( GREEN PUH HEAD)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0086",
+      "model": "DP242P70-FH2A",
+      "name": "Accessories M5,3/2 NC VALVE(DP) WITH ADAPTORE (FLUSH HEAD GREEN) MECHANICAL VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0088",
+      "model": "ASC0161",
+      "name": "Accessories 1/4\" BRASS SILENCER ( SLOTED HEAD )",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0089",
+      "model": "ASC0160",
+      "name": "Accessories 1/8\" BRASS SILENCER ( SLOTED HEAD )",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0091",
+      "model": "SK 0002",
+      "name": "Accessories SEAL Kit",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0092",
+      "model": "SK 0012",
+      "name": "Accessories SEAL Kit",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0093",
+      "model": "SK 4045",
+      "name": "Accessories SEAL Kit",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0099",
+      "model": "PS0101504A",
+      "name": "Accessories PRESSURE SENSOR 1/8\" (NPN)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0100",
+      "model": "PS0106504",
+      "name": "Accessories PRESSURE SENSOR 1/8\" (PNP) ANALOGE OUTPUT",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0101",
+      "model": "PS0108504",
+      "name": "Accessories PRESSURE SENSOR 1/8\" (PNP) ANALOGE OUTPUT, 1-10 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0102",
+      "model": "PS4008504",
+      "name": "Accessories PRESSURE SENSOR R 1/8\" (PNP) W/O ANALOG OUTPUT",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0115",
+      "model": "C185",
+      "name": "Accessories RAPID RELIEF VALVE , 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0116",
+      "model": "C136",
+      "name": "Accessories SAFTY VALVE ,1/4\" , 14 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0117",
+      "model": "C86",
+      "name": "Accessories SAFTY VALVE ,1/2\" , 17 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0118",
+      "model": "SAFTY VALVE",
+      "name": "Accessories SAFTY VALVE ,3/4\" , 17 / 12 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0119",
+      "model": "C761",
+      "name": "Accessories SAFTY VALVE ,1\" , 12 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0120",
+      "model": "Pneumatic CONNECTOR",
+      "name": "Accessories MULTY TEE 1/2\"X8mmx8mmx6mm",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0132",
+      "model": "",
+      "name": "Accessories SOLENOID COIL 220V AC , 1/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0133",
+      "model": "",
+      "name": "Accessories SOLENOID COIL 24 V DC , 1/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0134",
+      "model": "",
+      "name": "Accessories SOLENOID COIL 12V DC , 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0135",
+      "model": "AC23A",
+      "name": "Accessories SOLENOID COIL 220V AC , 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0136",
+      "model": "DC 24 W",
+      "name": "Accessories SOLENOID COIL 24 V DC , 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0137",
+      "model": "DC 24 R",
+      "name": "Accessories SOLENOID COIL 24 V DC, 5 W , BIG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0138",
+      "model": "",
+      "name": "Accessories SOLENOID COIL 220V AC, 5 W , BIG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0147",
+      "model": "DS257HD63",
+      "name": "Accessories HAND VALVE 1/2\", 5/2",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0168",
+      "model": "DS255EE61",
+      "name": "Accessories 1/4\",5/2 DOUBLE EXT.PILOT VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0169",
+      "model": "DS255ER61",
+      "name": "Accessories 1/4\",5/2 SINGLE EXT.PILOT.SP.RETURN VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0173",
+      "model": "SS A 0311",
+      "name": "Accessories MOVING CORE SUB ASSY (NC/A) SEAL PISTON",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0174",
+      "model": "A2D01",
+      "name": "Accessories 1/4\" AUTO DRAIN VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0175",
+      "model": "A2D02",
+      "name": "Accessories 3/8\" AUTO DRAIN VALVE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0176",
+      "model": "R74G-6GK-RMN",
+      "name": "Accessories 3/4\" REGULATOR , NORGREN",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0177",
+      "model": "",
+      "name": "Accessories NORGREN PRESSURE GAUGE,10 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0185",
+      "model": "PT11N1",
+      "name": "Accessories PRESSURE SWITCH WITH CONNECTOR (0-10 BAR)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0216",
+      "model": "FS15632",
+      "name": "Regulator/Lubricator/Filter/Fr L/ 1/2\" MIST SEPARATORE, (0.01 MICRONE)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0226",
+      "model": "FRLM 176534",
+      "name": "Regulator/Lubricator/Filter/Fr L/ SIZE: 1'' ,3 PART (40 MICRONE , 10 BAR)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0227",
+      "model": "FRLM 176434",
+      "name": "Regulator/Lubricator/Filter/Fr L/ SIZE:3/4\" ,3 PART (40 MICRONE , 10 BAR)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0228",
+      "model": "FRLM 156334/W",
+      "name": "Regulator/Lubricator/Filter/Fr L/ SIZE:1/2\" ,3 PART",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0229",
+      "model": "FRLM 146234",
+      "name": "Regulator/Lubricator/Filter/Fr L/ SIZE:3/8\" ,3 PART",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0230",
+      "model": "FRLM 136134",
+      "name": "Regulator/Lubricator/Filter/Fr L/ SIZE:1/4\" ,3 PART (40 MICRONE , 10 BAR)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0234",
+      "model": "C52",
+      "name": "Regulator/Lubricator/Filter/Fr L/ FCV,1/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0235",
+      "model": "C207",
+      "name": "Regulator/Lubricator/Filter/Fr L/ FLOW CONTROL VALVE,1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-01-0236",
+      "model": "C299",
+      "name": "Regulator/Lubricator/Filter/Fr L/ FLOW CONTROL VALVE,1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0009",
+      "model": "MCP 203",
+      "name": "U Flow Solenoid Valve MCP 203",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0010",
+      "model": "MCP 213",
+      "name": "U Flow Solenoid Valve 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0014",
+      "model": "MCB 203 BNEV0",
+      "name": "U Flow Solenoid Valve 1/2\" BRASS BODY, UPER SIDECOIL, DIAFORM TYPE,2 WAY,220V AC ,7 BAR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0015",
+      "model": "",
+      "name": "U Flow Solenoid Valve 1/2\" S S BODY , SIDE PISTON TYPE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0016",
+      "model": "MCB 413BNEWVO",
+      "name": "U Flow Solenoid Valve 1\" SS ,2 WAY,TAFLON MIDDLE DIAFORM TYPE,4 BAR,220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0017",
+      "model": "MBN 203",
+      "name": "U Flow Solenoid Valve 1/2\" BRASS BODY ,MIDDLE RUBBER DIAFORM,2 WAY,",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0018",
+      "model": "MBN 406",
+      "name": "U Flow Solenoid Valve 1\" BRASS BODY ,UPER SIDE COIL, DIAFORM TYPE,2 WAY,",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0019",
+      "model": "MCV 43",
+      "name": "U Flow Solenoid Valve 1\" SS SEMI LIFT MIDDLE DIAFORM,VITON:0-7KG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0032",
+      "model": "DCN 104 BNFW040V0",
+      "name": "U Flow Solenoid Valve 1/4\" SS BODY ,2 WAY,10 BAR,piston type,24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0034",
+      "model": "DCN 204BNEW040V0",
+      "name": "U Flow Solenoid Valve 1/2\" SS BODY,10 KG,2 WAY,220 V AC piston type",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0035",
+      "model": "DCN 117BNEW018V0",
+      "name": "U Flow Solenoid Valve 1/4\" SS BODY,60KG,2 WAY,220V AC PISTON TYPE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0036",
+      "model": "DCN 217",
+      "name": "U Flow Solenoid Valve 1/2\" SS BODY,60 KG,2 WAY,220 V AC piston type",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0037",
+      "model": "DCN 214",
+      "name": "U Flow Solenoid Valve DCN 214",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0038",
+      "model": "DNC 704",
+      "name": "U Flow Solenoid Valve 3/8\" SS PISTON TYPE",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0048",
+      "model": "DBN 104BNEW040V",
+      "name": "U Flow Solenoid Valve 1/4\" BRASS BODY,PISTON TYPE,2 WAY,60 KG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0049",
+      "model": "DBN 104",
+      "name": "U Flow Solenoid Valve 1/4\" S S BODY,PISTON TYPE,2 WAY,",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0050",
+      "model": "DBN 203",
+      "name": "U Flow Solenoid Valve 1/2\" BRASS BODY SIDE COIL DIAFORM TYPE,",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0051",
+      "model": "DBN 117 BNEWO18V0",
+      "name": "U Flow Solenoid Valve 1/4\" BRASS BODY,PISTON TYPE,2 WAY,60 KG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0054",
+      "model": "DBN 204 BNEW040V0",
+      "name": "U Flow Solenoid Valve 1/2\" BRASS BODY,2 WAY, PISTON TYPE 10 KG, 220 V AC, 4 WT",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0055",
+      "model": "",
+      "name": "U Flow Solenoid Valve 1/2\" BRASS BODY,2 WAY, PISTON TYPE 10 KG, 220 V AC, 4 WT",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0061",
+      "model": "DCP 1 RJ23T070",
+      "name": "U Flow Solenoid Valve POPPET NUMAN ,1/4' ,5/2, 24 V DC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0062",
+      "model": "DCP 1 G23T070",
+      "name": "U Flow Solenoid Valve POPPET NUMAN ,1/4' ,5/2, 220 V A C",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0063",
+      "model": "SFA 1BN 23 DT 060 V1",
+      "name": "U Flow Solenoid Valve 1/4\",5/2 WAY,220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0065",
+      "model": "CCA1RN,23ETO7OVO",
+      "name": "U Flow Solenoid Valve 1/4\" X 3/2- 5/2 , 24 V DC (ROTEX TYPE)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0066",
+      "model": "CFA1BN23ET070V0E",
+      "name": "U Flow Solenoid Valve ROTEX TYPE,ALUMINIUM BODY",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0067",
+      "model": "",
+      "name": "U Flow Solenoid Valve Coil round body, 24 v dc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0068",
+      "model": "",
+      "name": "U Flow Solenoid Valve Coil round body, 24 v dc",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0072",
+      "model": "",
+      "name": "U Flow Solenoid Valve 1 1/4\"\" SS Y PNEUMATIC, T/T",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0075",
+      "model": "METAL BODY ROUND COIL",
+      "name": "U Flow Solenoid Valve 220 AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0076",
+      "model": "SPIRAL PIPE",
+      "name": "U Flow Solenoid Valve 8MM X 10 MTR",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0077",
+      "model": "U FLOW COIL",
+      "name": "U Flow Solenoid Valve 230VAC, 8 W,FA108H",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0081",
+      "model": "",
+      "name": "U Flow Solenoid Valve ROUND COIL ,220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0082",
+      "model": "",
+      "name": "U Flow Solenoid Valve ROUND COIL ,24 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0083",
+      "model": "",
+      "name": "U Flow Solenoid Valve ROUND COIL ,24 V DC (SMALL)",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0084",
+      "model": "",
+      "name": "U Flow Solenoid Valve SQUARE COIL ,220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0086",
+      "model": "",
+      "name": "U Flow Solenoid Valve ROUND COIL ,220 V AC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0087",
+      "model": "20101-3-4G",
+      "name": "U Flow Solenoid Valve 2 WAY,1/2\",0-8 BAR, ROTEX",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0088",
+      "model": "30206-1.8-2G",
+      "name": "U Flow Solenoid Valve 30206-1.8-2G",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0089",
+      "model": "1.8079682E7",
+      "name": "U Flow Solenoid Valve 1.8079682E7",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0090",
+      "model": "57450V02-6-2R-24VDC",
+      "name": "U Flow Solenoid Valve 57450V02-6-2R-24VDC",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0097",
+      "model": "311197-2G+111-24VDC-37-H",
+      "name": "U Flow Solenoid Valve 311197-2G+111-24VDC-37-H",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0100",
+      "model": "951-000-P15-23",
+      "name": "U Flow Solenoid Valve 951-000-P15-23",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0101",
+      "model": "951-000-P11-23",
+      "name": "U Flow Solenoid Valve 951-000-P11-23",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0102",
+      "model": "961-000-P11-23",
+      "name": "U Flow Solenoid Valve 961-000-P11-23",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-03-0106",
+      "model": "",
+      "name": "U Flow Solenoid Valve MOISTER SEPARATORES, 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0004",
+      "model": "",
+      "name": "Brass Ball Mini Valve F/F 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0005",
+      "model": "",
+      "name": "Brass Ball Mini Valve F/F 3/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0006",
+      "model": "",
+      "name": "Brass Ball Mini Valve F/F 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0008",
+      "model": "",
+      "name": "Brass Ball Mini Valve M/F 1/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0009",
+      "model": "",
+      "name": "Brass Ball Mini Valve M/F 3/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0010",
+      "model": "",
+      "name": "Brass Ball Mini Valve M/F 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0012",
+      "model": "",
+      "name": "Brass Pressure Gauge Valve 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0015",
+      "model": "",
+      "name": "Ring Safety Valve 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0018",
+      "model": "",
+      "name": "Brass Air Push Nipple 1/8\" SMALL",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-04-0019",
+      "model": "",
+      "name": "Brass Air Push Nipple 1/4\" BIG",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0011",
+      "model": "",
+      "name": "Zoloto Steam Trape T/T : 1\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0012",
+      "model": "",
+      "name": "Zoloto Steam Trape T/T : 3/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0013",
+      "model": "",
+      "name": "Zoloto Steam Trape T/T : 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0015",
+      "model": "",
+      "name": "Uttam Gauge Glass Valve T/T T/T : 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0016",
+      "model": "",
+      "name": "Uttam Gauge Glass Valve T/T T/T : 3/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0017",
+      "model": "",
+      "name": "Uttam Gauge Glass Valve T/T T/T : 5/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0019",
+      "model": "",
+      "name": "Uttam Gauge Glass Valve (F/T) 3/4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0023",
+      "model": "",
+      "name": "Uttam Buket Trape (T/T) T/T : 1\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0024",
+      "model": "",
+      "name": "Uttam Buket Trape (T/T) T/T : 1 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0028",
+      "model": "",
+      "name": "M S Syfoon (T/T) T/T : 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0029",
+      "model": "",
+      "name": "M S Syfoon (T/T) T/T : 3/8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0031",
+      "model": "",
+      "name": "Butterfly 2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0032",
+      "model": "",
+      "name": "Butterfly 2 1/2\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0033",
+      "model": "",
+      "name": "Butterfly 4\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-05-0034",
+      "model": "",
+      "name": "Butterfly 8\"",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-06-0004",
+      "model": "",
+      "name": "Accessories MAGNET FOR MUBRI SWITCH",
+      "reason": "No verified matching photo sourced"
+    },
+    {
+      "id": "FRE-06-0006",
+      "model": "",
+      "name": "Accessories SS BALL FOR MUBRI SWITCH",
+      "reason": "No verified matching photo sourced"
+    }
+  ]
+}

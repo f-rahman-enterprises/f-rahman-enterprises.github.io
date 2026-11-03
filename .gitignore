@@ -1,0 +1,22 @@
+dist/
+node_modules/
+outputs/catalogue/*.png
+
+# Private source documents and local AI-agent setup.
+docs/
+AGENTS.md
+CLAUDE.md
+**/AGENTS.md
+**/CLAUDE.md
+.agents/
+.claude/
+.codex/
+
+# Local previews and workbooks; retain code and public catalogue fixtures.
+outputs/*
+!outputs/catalogue/
+outputs/catalogue/*
+!outputs/catalogue/*.mjs
+!outputs/catalogue/*.csv
+!outputs/catalogue/cleaning-report.json
+!outputs/catalogue/photo-sourcing-report.json

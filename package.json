@@ -1,0 +1,10 @@
+{
+  "name": "f-rahman-enterprises",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/catalogue.test.mjs tests/pwa.test.mjs"
+  }
+}

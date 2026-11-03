@@ -1,0 +1,357 @@
+{
+  "source": "docs/Copy of STOCK UPDATE.xlsx",
+  "counts": {
+    "JANATIC": 425,
+    "S S FITTING": 101,
+    "U FLOW": 97,
+    "BRASS FITTING": 10,
+    "VALVE": 21,
+    "VARIOUS": 47
+  },
+  "total_products": 701,
+  "published": 689,
+  "review_required": 244,
+  "excluded_rows": [
+    [
+      "JANATIC",
+      2,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      55,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      83,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      195,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      238,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      263,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      273,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      300,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      307,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      312,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      330,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      357,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      365,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      373,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      380,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      385,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      392,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      397,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      427,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      443,
+      "Section heading"
+    ],
+    [
+      "JANATIC",
+      452,
+      "Total row"
+    ],
+    [
+      "S S FITTING",
+      1,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      2,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      39,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      41,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      68,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      77,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      89,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      100,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      108,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      111,
+      "Section heading"
+    ],
+    [
+      "S S FITTING",
+      113,
+      "Total row"
+    ],
+    [
+      "U FLOW",
+      1,
+      "Section heading"
+    ],
+    [
+      "U FLOW",
+      85,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      98,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      99,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      103,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      104,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      105,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "U FLOW",
+      107,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "BRASS FITTING",
+      2,
+      "Section heading"
+    ],
+    [
+      "BRASS FITTING",
+      3,
+      "Connection type heading"
+    ],
+    [
+      "BRASS FITTING",
+      7,
+      "Connection type heading"
+    ],
+    [
+      "BRASS FITTING",
+      11,
+      "Section heading"
+    ],
+    [
+      "BRASS FITTING",
+      13,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "BRASS FITTING",
+      14,
+      "Section heading"
+    ],
+    [
+      "BRASS FITTING",
+      16,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "BRASS FITTING",
+      17,
+      "Section heading"
+    ],
+    [
+      "BRASS FITTING",
+      20,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "BRASS FITTING",
+      22,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VALVE",
+      2,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      7,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      10,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      14,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      18,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      20,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VALVE",
+      21,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VALVE",
+      22,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      25,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VALVE",
+      26,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VALVE",
+      27,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      30,
+      "Section heading"
+    ],
+    [
+      "VALVE",
+      35,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VARIOUS",
+      3,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VARIOUS",
+      5,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VARIOUS",
+      7,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VARIOUS",
+      14,
+      "Unidentified data row; inspect original workbook"
+    ],
+    [
+      "VARIOUS",
+      53,
+      "Total row"
+    ]
+  ],
+  "policy": "No variants merged. Source numeric identifiers preserved from XML. Costs omitted. Historical stock is not advertised as live availability."
+}
